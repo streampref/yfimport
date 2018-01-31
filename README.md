@@ -1,7 +1,4 @@
-# YFImport
-Tool to import Yahoo Finance data to StremPref DSMS
-
-__Table of Contents__
+# Table of Contents
 
 - [Introduction](#introduction)
 - [Tools](#tools)
